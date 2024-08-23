@@ -22,7 +22,7 @@ class NoteItem extends StatelessWidget {
               padding: const EdgeInsets.only(top: 16, bottom: 16),
               child: Text('Bulid your career with thareat samy',
                   style: TextStyle(
-                      color: Colors.black.withOpacity(.4), fontSize: 20)),
+                      color: Colors.black.withOpacity(.4), fontSize: 18)),
             ),
             trailing: IconButton(
                 onPressed: () {},
